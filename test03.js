@@ -41,3 +41,6 @@ data2++
 ++data2
 data2++
 console.log(data2) // 13
+
+
+
